@@ -1,7 +1,8 @@
-def park_dimension(l,b,h):
-    return b if l<b  else l
+def check(l,b,):
+    return l if l<b  else b
 l=input("room length")
 b=input("room bredth ")
-h=input("room height ")
+l,b=int(l),int(b)
+print(check(l,b))
 
 
