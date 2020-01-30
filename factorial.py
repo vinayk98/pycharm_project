@@ -9,7 +9,7 @@ elif num==0:
     print("the factorial is 0 is 1")
     for i in range (1,num):
         factorial=factorial*i
-        print("the factorial of num is",factorial)
+        print(factorial)
 
 
 
