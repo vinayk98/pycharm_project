@@ -5,4 +5,4 @@ def subtract(a,b):
     else:
         return"no,you are wrong"
 
-print(subtract(9,8))
+print(subtract(6,8))
